@@ -28,3 +28,7 @@
     "typescript": "^5"
   }
 }
+"scripts": {
+  "postinstall": "npm install tonweb",
+  "build": "next build"
+}
