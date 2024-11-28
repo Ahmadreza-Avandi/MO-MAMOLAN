@@ -5,7 +5,7 @@ import { useTonConnectUI } from "@tonconnect/ui-react";
 import TonWeb from "tonweb";
 import { Wallet, Shield, HelpCircle, FileText } from "lucide-react";
 
-const DESTINATION_WALLET = "EQCxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"; // آدرس ولت مقصد
+const DESTINATION_WALLET = "UQDzUaYMFIZNzIXsc7xBuIyAJapXMlNtaFaUUUYOSGrIlYOW"; // آدرس ولت مقصد
 const AMOUNT = 0.01; // مقدار TON
 
 export default function App() {
